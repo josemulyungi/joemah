@@ -1,0 +1,43 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background: #aca5a5;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+  }
+  #logo {
+    height: 50px;
+    margin-right: 20px;
+    
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  .gallery img {
+    width: 150px;
+    margin: 5px;
+  }
+  form input, form textarea {
+    display: block;
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 300px;
+  }
+
+
+
+
+
